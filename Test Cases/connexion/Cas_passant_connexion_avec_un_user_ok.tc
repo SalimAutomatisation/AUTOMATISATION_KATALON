@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>connecter avec un utilisateur ile de france</name>
+   <name>Cas_passant_connexion_avec_un_user_ok</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a044f5f0-2c30-4c24-be65-fa48ffcfc3e8</testCaseGuid>
