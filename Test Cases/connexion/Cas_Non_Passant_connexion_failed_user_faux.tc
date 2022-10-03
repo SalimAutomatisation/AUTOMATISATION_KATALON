@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier le comportement de la connexion avec un user erroné</description>
+   <name>Cas_Non_Passant_connexion_failed_user_faux</name>
+   <tag>user_faux</tag>
+   <comment></comment>
+   <testCaseGuid>eeb60114-61cf-4abd-a1da-f2843f041bd8</testCaseGuid>
+</TestCaseEntity>

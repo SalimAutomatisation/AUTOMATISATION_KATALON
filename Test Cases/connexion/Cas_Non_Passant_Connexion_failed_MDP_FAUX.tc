@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>vérifier la connexion avec un autre user, qu'est faux</description>
+   <description>vérifier la connexion avec un autre MDP qu'est faux</description>
    <name>Cas_Non_Passant_Connexion_failed_MDP_FAUX</name>
    <tag></tag>
    <comment></comment>
