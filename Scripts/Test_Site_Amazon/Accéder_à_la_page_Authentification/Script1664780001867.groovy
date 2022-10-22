@@ -19,3 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.amazon.fr/')
 
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Page_cookies/Page_Amazon.fr  livres, DVD, jeux vido/input_Politique de confidentialit_accept'))
+
+WebUI.closeBrowser()
+
