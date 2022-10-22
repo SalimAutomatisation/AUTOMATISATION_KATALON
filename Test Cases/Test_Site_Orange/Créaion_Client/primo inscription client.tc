@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>permet de saisir la pemiere étapes des info du client</description>
+   <name>primo inscription client</name>
+   <tag>primo inscription client</tag>
+   <comment></comment>
+   <testCaseGuid>bdc5eaad-45e4-4318-9ed3-ab0ddce7cf1b</testCaseGuid>
+</TestCaseEntity>

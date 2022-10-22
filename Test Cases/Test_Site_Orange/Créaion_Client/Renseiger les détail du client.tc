@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>l'étapes qui vient aprés la primo inscription, permet de vérifier le comportement de cette page (liste déroulante, présence des champs, type de champ), et le bouton enregistrer</description>
+   <name>Renseiger les détail du client</name>
+   <tag>Renseiger les détail du client</tag>
+   <comment></comment>
+   <testCaseGuid>98ffe351-eb44-4e78-b823-f8942321a317</testCaseGuid>
+</TestCaseEntity>
