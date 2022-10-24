@@ -23,11 +23,7 @@ WebUI.openBrowser('https://www.amazon.fr/')
 //agrandir la page
 WebUI.maximizeWindow()
 
-//Cliquer sur le bouton pour accépter les cookies
-WebUI.click(findTestObject('Page_cookies/Page_Amazon.fr  livres, DVD, jeux vido/input_Politique de confidentialit_accept'))
+WebUI.click(findTestObject('Page_Amazon.fr_cookies_sans_accepter/a_Continuer sans accepter'))
 
-WebUI.setText(findTestObject('Page_Amazon.fr  livres, DVD, jeux vido, musique, high-tech, informatique, jouets,/input_Toutes nos catgories_field-keywords'), 
-    'chaussures hommes')
-
-WebUI.click(findTestObject('Page_Amazon.fr  livres, DVD, jeux vido, musique, high-tech, informatique, jouets,/input_Toutes nos catgories_nav-search-submit-button'))
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Bloc_droite_haut/div_window.navmet.tmpnew Date  .fr_logo'), 0)
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Naviguer_Page_Amazon</name>
+   <name>Recherche_Un_Produit</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>901a5735-e402-4eec-9987-a4fcc4a0ff7b</testCaseGuid>
