@@ -17,15 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//ouvrire le page amazone
-WebUI.openBrowser('https://www.amazon.fr/')
+WebUI.openBrowser('https://www.amazon.fr')
 
-//agrandir la page 
-WebUI.maximizeWindow()
-
-//Cliquer sur le bouton pour ne pas accépter les cookies
+//Cliquer sur le bouton continuer sans accépter les cookies
 WebUI.click(findTestObject('Page_Amazon.fr_cookies_sans_accepter/a_Continuer sans accepter'))
 
-//Fermer la page
-WebUI.closeBrowser()
+//Vérifier l'affichage "Bonjour" dans le bloc de droite du logo
+WebUI.verifyElementText(findTestObject('Page_Amazon.fr  livres, DVD, jeux vido, mus_928905/span_Bonjour'), 'Bonjour')
 
+//Vérifier l'affichage "Bonjour" dans le bloc de droite du logo
+WebUI.verifyElementText(findTestObject('Page_Amazon.fr  livres, DVD, jeux vido, mus_928905/span_Entrez votre adresse'), 'Entrez votre adresse')
+
+WebUI.closeBrowser()

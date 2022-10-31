@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier l'affichage des éléments qui sont à droite du logo</description>
+   <name>Verification_le_champ-recherche_liste_deroulante</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed9a3e53-dc61-44f3-8b8b-aa1bb906bfc6</testCaseGuid>
+</TestCaseEntity>

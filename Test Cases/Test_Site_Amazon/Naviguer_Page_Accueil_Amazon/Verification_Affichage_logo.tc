@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Vérifier l'affichage des différents éléments dans la page de consultaion</description>
-   <name>Verification_Affichage</name>
+   <name>Verification_Affichage_logo</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0e62a3ed-8a5d-452e-9e1d-66872ce84f72</testCaseGuid>
