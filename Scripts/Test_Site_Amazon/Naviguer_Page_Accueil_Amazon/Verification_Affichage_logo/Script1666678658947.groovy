@@ -25,5 +25,5 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Page_Amazon.fr_cookies_sans_accepter/a_Continuer sans accepter'))
 
-WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Bloc_droite_haut/div_window.navmet.tmpnew Date  .fr_logo'), 0)
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Logo/div_window.navmet.tmpnew Date  .fr_logo'), 0)
 
