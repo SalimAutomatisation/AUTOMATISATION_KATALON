@@ -17,18 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//ouvrire le page amazone
-WebUI.openBrowser('https://www.amazon.fr/')
+WebUI.openBrowser('')
+WebUI.navigateToUrl('https://www.amazon.fr/')
 
-//agrandir la page
-WebUI.maximizeWindow()
-
-//Cliquer sur le bouton pour accépter les cookies
 WebUI.click(findTestObject('Page_cookies/Page_Amazon.fr  livres, DVD, jeux vido/input_Politique de confidentialit_accept'))
 
-//Ecrire la valeur qu'on veu chercher dans le champ de recherche 
-WebUI.setText(findTestObject('Page_Amazon.fr_champ_recherche_bouton_liste/input_Toutes_nos_catgories_champ_de_recherche'), 
-    'chaussure')
-//Cliquer sur le bouton rechercher
-WebUI.submit(findTestObject('Page_Amazon.fr_champ_recherche_bouton_liste/input_Toutes nos catgories_button_recherche'))
+//Verifier l'affichage des bloc à droite du bouton de recherche'
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Bloc_Droite_Recherche/div_Bonjour_Identifiez-vous_Compte_listes_Retours_et_commandes_0_Panier'), 0)
 
+//Verifier l'affichage du bloc 1 "bonjour identifiez vous'
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Bloc1_Droite_Recherche/a_Bonjour, Identifiez-vous  Compte et listes'), 0)

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier les éléments afficher dans le bloc de droite de bloc de recherche : 
+- verifier le retour et commandes
+- verfifier le panier</description>
+   <name>Verification_Bloc_Droite_Champ_Recherche</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>790695cd-a907-481a-b08d-08ade1cbe913</testCaseGuid>
+</TestCaseEntity>
