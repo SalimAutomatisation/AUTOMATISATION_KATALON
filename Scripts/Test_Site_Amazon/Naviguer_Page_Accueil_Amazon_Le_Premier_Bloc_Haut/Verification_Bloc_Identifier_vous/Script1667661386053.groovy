@@ -138,4 +138,5 @@ WebUI.verifyElementClickable(findTestObject('Page_Amazon.fr_Liste_De_Vos_Envies/
 WebUI.click(findTestObject('Page_Amazon.fr_Liste_De_Vos_Envies/a_Liste denvies universelle'))
 WebUI.back()
 
+WebUI.closeBrowser()
 
