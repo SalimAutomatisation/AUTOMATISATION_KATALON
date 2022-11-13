@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verfier le sous menu qu'est en bas du champ de recherche, à savoir les éléments suivants : 
+- Toute
+- Meilleurs vente
+- Amazon basic
+- Derniere nouvautés
+- Musiques
+- Prime  vidéo</description>
+   <name>CDT_Verifier_Les_sous_menus_Recherche</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>536d8312-3afd-48ff-9084-391d42a7f811</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prime</name>
+   <tag></tag>
+   <elementGuidId>67be00f1-cdcb-46d3-9685-fb0194057f33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-link-amazonprime']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-link-amazonprime > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f86dfe3-204f-410d-bb03-f567a82b892c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prime</value>
+      <webElementGuid>1d3249a7-c713-4c66-97cb-baf07ed15a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-link-amazonprime&quot;)/span[1]</value>
+      <webElementGuid>40c9cd97-5d62-463d-94f9-994a8c9a8795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav-link-amazonprime']/span</value>
+      <webElementGuid>dc1d8f11-3911-4111-8f56-67ae94c1475d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Musique'])[1]/following::span[1]</value>
+      <webElementGuid>b8f35d3d-645b-4dc3-9e58-d0106b5fc8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dernières Nouveautés'])[1]/following::span[1]</value>
+      <webElementGuid>82f847fb-c930-4be8-b79e-a5eb159466f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Client'])[1]/preceding::span[2]</value>
+      <webElementGuid>ec5aa6a5-4abf-4df2-9ac9-9d26d7d511f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ventes Flash'])[1]/preceding::span[2]</value>
+      <webElementGuid>1231391f-9f18-498b-97dd-6b749cdbfab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prime']/parent::*</value>
+      <webElementGuid>04e0a75d-8e6f-4e00-b1e9-678571afab09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[6]/span</value>
+      <webElementGuid>9a537c2f-622d-4a32-997c-199bde37cc48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Prime' or . = 'Prime')]</value>
+      <webElementGuid>cb5141b4-f126-4d56-b957-3799e6b10af9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
