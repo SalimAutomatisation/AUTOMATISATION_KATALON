@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nouveau_client _Commencer ici</name>
+   <tag></tag>
+   <elementGuidId>1cdf3d29-4590-4258-83a9-77e15cf0bca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-flyout-ya-newCust</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-ya-newCust']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'nav-flyout-ya-newCust' and (text() = 'Nouveau client ? Commencer ici.' or . = 'Nouveau client ? Commencer ici.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9f2b8d7-69c7-4358-9f71-e214dd46c775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-flyout-ya-newCust</value>
+      <webElementGuid>d014b68b-ec83-4df7-909b-d659c69d5387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_pop_new_cust nav-flyout-content nav-flyout-accessibility</value>
+      <webElementGuid>6e166493-f653-47c2-b984-d4e1119a729c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nouveau client ? Commencer ici.</value>
+      <webElementGuid>c7dd467a-0101-4961-af0f-674a634083a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-ya-newCust&quot;)</value>
+      <webElementGuid>1007c861-7360-41d8-971c-84a436cd244c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-ya-newCust']</value>
+      <webElementGuid>16fb4363-15ba-4665-97f7-2d6e0a27a107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-ya-signin']/div</value>
+      <webElementGuid>3364cd2c-7478-4a4d-ab75-9314b3293dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identifiez-vous'])[1]/following::div[1]</value>
+      <webElementGuid>a105a194-9ce0-4d41-8494-476f058d0620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='et commandes'])[1]/following::div[31]</value>
+      <webElementGuid>d56cafdb-cc76-4c83-a5ed-27ae72db9583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Vos listes d', &quot;'&quot;, 'envies')])[1]/preceding::div[1]</value>
+      <webElementGuid>62f5ad22-e75a-4896-bb05-75cb487370ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nouveau client ?']/parent::*</value>
+      <webElementGuid>8b9057be-8a92-4a3b-887f-b4ae28c5b38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>62d94509-3ea0-4f1a-b204-64262cd71fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'nav-flyout-ya-newCust' and (text() = 'Nouveau client ? Commencer ici.' or . = 'Nouveau client ? Commencer ici.')]</value>
+      <webElementGuid>37760dc1-5a73-405e-9d66-faab959057e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

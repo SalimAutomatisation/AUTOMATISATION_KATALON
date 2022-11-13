@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Grer votre contenu et vos appareils</name>
+   <tag></tag>
+   <elementGuidId>3ac9aef5-fc62-4d1f-981e-bb5aacdd2a8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-your-account']/a[10]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>99e0b225-489d-47e7-90cc-7ec5c4f513d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>1389ba16-ed71-4536-a6f5-f7922cc3aa4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gérer votre contenu et vos appareils</value>
+      <webElementGuid>ef00544e-f185-48ec-a664-63794ce170c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>a77890a3-e7a2-41cf-83f5-e29e5573aea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f87993a6-f36d-42c2-a08a-ca3b99db26ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>e5dfbf0a-425c-4276-b94e-7bf539af216f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gérer votre contenu et vos appareils</value>
+      <webElementGuid>84b8df0c-6c13-44b0-aab8-3cc6ef791038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>47bbfe03-e53d-4ede-9a57-2d7eb94f90eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-your-account']/a[10]/span</value>
+      <webElementGuid>45bc7eb5-add4-49ad-81be-94f51ff17e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Créer un compte professionnel gratuit'])[1]/following::span[1]</value>
+      <webElementGuid>ae043eb0-670a-43dd-bc7c-85b56d1b2fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre compte Amazon Prime'])[1]/following::span[2]</value>
+      <webElementGuid>f271fa2c-9ed9-47ad-b3a8-85791da2b189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre Abonnement Kindle'])[1]/preceding::span[1]</value>
+      <webElementGuid>afbe9816-20f0-45b7-9e29-71b5078fe531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre bibliothèque musicale'])[1]/preceding::span[2]</value>
+      <webElementGuid>bb930e67-41d9-4db2-b62f-8629ca50bf0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gérer votre contenu et vos appareils']/parent::*</value>
+      <webElementGuid>e2ca5410-af74-4de2-869e-381d90a63b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]/span</value>
+      <webElementGuid>deb165a8-ad28-4aad-822c-0f3b879425d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gérer votre contenu et vos appareils' or . = 'Gérer votre contenu et vos appareils')]</value>
+      <webElementGuid>37f92e9c-d044-4642-b567-48ce1813c119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

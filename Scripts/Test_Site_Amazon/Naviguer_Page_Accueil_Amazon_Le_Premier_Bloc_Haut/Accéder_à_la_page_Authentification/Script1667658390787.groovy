@@ -20,10 +20,20 @@ import org.openqa.selenium.Keys as Keys
 //ouvrire le page amazone
 WebUI.openBrowser('https://www.amazon.fr/')
 
-//agrandir la page
+//Verifier le lien de la page 
+//reuprer le lien et donner un nom à la variable
+link = WebUI.getUrl()
+//comparer le lien recuprer (nom de la variabke) avec le lieln actule qu'on saisie manuellement
+WebUI.verifyMatch(link, 'https://www.amazon.fr/', true)
+
+//agrandir la page 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Page_Amazon.fr_cookies_sans_accepter/a_Continuer sans accepter'))
-
-WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Logo/div_window.navmet.tmpnew Date  .fr_logo'), 0)
+//Cliquer sur le bouton pour ne pas accépter les cookies
+//WebUI.click(findTestObject('Page_Amazon.fr_cookies_sans_accepter/a_Continuer sans accepter'))
+//https://www.amazon.fr/ = WebUI.getWindowTitle()
+//VERIFIER le lien de site 
+//Verifier le logo d'amazone
+//Fermer la page
+WebUI.closeBrowser()
 

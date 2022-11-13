@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Liste de naissance</name>
+   <tag></tag>
+   <elementGuidId>36e0b461-5846-41c4-bd7e-f2e24a64d59d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-wishlist']/a[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f1f572e-1633-4a3b-b0e5-3998a92ea0bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>97afb825-8bd7-4f3d-9f23-61f8f07e2186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liste de naissance</value>
+      <webElementGuid>c4151c71-07fd-493b-9340-ca3a77befc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>7e3ec1fe-389b-41ce-8490-02e505bf484d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0198b6e5-587a-4909-ae88-932eab8d3389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>f75e2c6c-e8d5-44e4-8c7f-97c3a196626f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liste de naissance</value>
+      <webElementGuid>1ee7ef14-2104-47be-8b91-7fa0881b86d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>539e8280-dec0-4569-9a68-ab2a8e07cb0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-wishlist']/a[4]/span</value>
+      <webElementGuid>3db230cf-9262-42ea-a53a-a6558f028828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liste de mariage'])[1]/following::span[1]</value>
+      <webElementGuid>a924295e-7c99-4aa7-832f-131a26b0ab30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Liste d', &quot;'&quot;, 'envies universelle')])[1]/following::span[2]</value>
+      <webElementGuid>c4cab77c-1f73-4935-a8d4-3d04261bf252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Découvrez votre style'])[1]/preceding::span[1]</value>
+      <webElementGuid>a856e145-a29b-4270-86dd-e9fbc222ef6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explorez le showroom'])[1]/preceding::span[2]</value>
+      <webElementGuid>99d6d8ef-dac6-4e7d-9635-55e66e1d8d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Liste de naissance']/parent::*</value>
+      <webElementGuid>a7ec106a-138e-4483-a4fb-50c46b4b42f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/span</value>
+      <webElementGuid>febebc28-646b-45c1-a7b3-d2e60af8977e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Liste de naissance' or . = 'Liste de naissance')]</value>
+      <webElementGuid>e5769e0c-2430-4b5d-8e40-442a9132dbed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -32,3 +32,5 @@ WebUI.setText(findTestObject('Page_Amazon.fr_champ_recherche_bouton_liste/input_
 //Cliquer sur le bouton rechercher
 WebUI.submit(findTestObject('Page_Amazon.fr_champ_recherche_bouton_liste/input_Toutes nos catgories_button_recherche'))
 
+//Fermer la page
+WebUI.closeBrowser()

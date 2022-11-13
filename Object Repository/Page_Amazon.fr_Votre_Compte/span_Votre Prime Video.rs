@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Votre Prime Video</name>
+   <tag></tag>
+   <elementGuidId>0208afe1-2f22-4954-a226-f24bc658d093</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-your-account']/a[13]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2862d54d-0845-43c1-9fa7-b9229efd70be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>972cd281-ef83-495f-bae6-30c2f4e187f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre Prime Video</value>
+      <webElementGuid>50ea554e-1e22-4f8e-9ac8-a4b7a575e5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>83eddc35-5059-4c55-bfd1-7248d72e8d23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>680435c4-5cd7-4c73-bd21-59f1b50af294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>89d5bfbb-189a-4a20-8929-db5eaa97e767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre Prime Video</value>
+      <webElementGuid>32be940b-0621-49c7-817c-8c63a2616eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>f512af45-6c66-44f8-9e6b-333aaede4044</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-your-account']/a[13]/span</value>
+      <webElementGuid>10789886-d156-4a1b-bad1-85ae5fa60a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre bibliothèque musicale'])[1]/following::span[1]</value>
+      <webElementGuid>653cfbb8-46b0-41c1-bf62-30bfdaed9d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre Abonnement Kindle'])[1]/following::span[2]</value>
+      <webElementGuid>1f0959dd-fd8a-4c86-9ee1-0af1e6fc55dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre Amazon Drive'])[1]/preceding::span[1]</value>
+      <webElementGuid>36f9e5ea-3281-44d3-81c1-54cfe35364d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre Bibliothèque de jeux et logiciels'])[1]/preceding::span[2]</value>
+      <webElementGuid>069430d7-cd71-403b-97d5-417c25f34c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Votre Prime Video']/parent::*</value>
+      <webElementGuid>b6df8dd9-3fda-481c-a222-fae8857e18ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[13]/span</value>
+      <webElementGuid>a01ad08b-7124-4915-abb6-5222223c18ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Votre Prime Video' or . = 'Votre Prime Video')]</value>
+      <webElementGuid>7b243ca1-4392-45bb-8b47-2e1008b7885c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

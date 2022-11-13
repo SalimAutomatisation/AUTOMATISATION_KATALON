@@ -52,3 +52,6 @@ WebUI.setText(findTestObject('Page_Amazon.fr_champ_recherche_bouton_liste/input_
 
 //cliquer sur le bouton rechercher "la loupe"
 WebUI.click(findTestObject('Page_Amazon.fr_champ_recherche_bouton_liste/input_Toutes nos catgories_button_recherche'))
+
+//Fermer la page
+WebUI.closeBrowser()

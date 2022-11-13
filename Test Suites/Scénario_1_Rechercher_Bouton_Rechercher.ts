@@ -15,7 +15,7 @@
       <guid>fc78401e-9d0e-49dc-845d-f50373a88794</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test_Site_Amazon/Naviguer_Page_Accueil_Amazon/Recherche_Un_Produit</testCaseId>
+      <testCaseId>Test Cases/Test_Site_Amazon/Naviguer_Page_Accueil_Amazon_Le_Premier_Bloc_Haut/Recherche_Un_Produit</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

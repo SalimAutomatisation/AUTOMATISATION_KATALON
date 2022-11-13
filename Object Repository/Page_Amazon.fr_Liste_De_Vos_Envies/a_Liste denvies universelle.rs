@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Liste denvies universelle</name>
+   <tag></tag>
+   <elementGuidId>aa63f851-68f8-4329-9572-2a012f135b96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-wishlist']/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9f5c8e18-be2a-430d-9f88-7fe540c372dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/BIT?bitCampaignCode=a0022&amp;ref_=nav_ListFlyout_bit_v2_a0022</value>
+      <webElementGuid>8ea3fbe5-94ce-497b-9607-d702e3ca5bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>a400db4f-b280-4bda-b4d0-7c26615a02cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liste d'envies universelle</value>
+      <webElementGuid>9540b0e3-a134-4b62-856a-17e06c780d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>a1bce5c2-10f3-425f-a6da-655baf5e5f31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5244bf0e-4bf0-42bf-a435-38cbe31b1382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/BIT?bitCampaignCode=a0022&amp;ref_=nav_ListFlyout_bit_v2_a0022</value>
+      <webElementGuid>b76028cd-1c89-4ffe-85ac-8d793604fe5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>f626433b-546f-48cc-9181-d8057b453659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liste d'envies universelle</value>
+      <webElementGuid>9a6034b2-50b5-4c32-9e4e-07aeb3b7bb02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>5b69554d-fdf5-4f2d-a6be-aac7391e5ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-wishlist']/a[2]</value>
+      <webElementGuid>8d28d859-4304-42ea-819c-85e0fbaab206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Créer une liste'])[1]/following::a[1]</value>
+      <webElementGuid>c8409694-4510-4946-800c-d870b6770d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Vos listes d', &quot;'&quot;, 'envies')])[1]/following::a[2]</value>
+      <webElementGuid>64897058-472d-4337-b93e-fca67f510f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liste de mariage'])[1]/preceding::a[1]</value>
+      <webElementGuid>81011ce1-1606-4907-bbff-fd717c46fa4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/BIT?bitCampaignCode=a0022&amp;ref_=nav_ListFlyout_bit_v2_a0022')]</value>
+      <webElementGuid>54167537-8e90-4cf2-8f4c-b9fdba53a8bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>ab3fcf55-62fd-4b33-8995-34533f386cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/BIT?bitCampaignCode=a0022&amp;ref_=nav_ListFlyout_bit_v2_a0022' and (text() = concat(&quot;Liste d&quot; , &quot;'&quot; , &quot;envies universelle&quot;) or . = concat(&quot;Liste d&quot; , &quot;'&quot; , &quot;envies universelle&quot;))]</value>
+      <webElementGuid>76874f35-c74e-4086-8059-94329b6147b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vos commandes</name>
+   <tag></tag>
+   <elementGuidId>0b7113b5-7d63-4ecb-a08d-ed4c381fe083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav_prefetch_yourorders']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav_prefetch_yourorders > span.nav-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a92940ee-6974-469c-99d0-3a273c23122a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>0dd78d81-067f-4f8c-bb0a-bd4bfe5b5cc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vos commandes</value>
+      <webElementGuid>b51ce1c6-7954-4224-ab93-7c4bd05be59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_prefetch_yourorders&quot;)/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>7c174df2-e2c8-41eb-a5de-0f0583fdd85d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bbfd11fd-2290-40dd-a84b-faa7b60e1483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>d100f269-fc8e-4943-858b-95376c3b2d1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vos commandes</value>
+      <webElementGuid>4412f80f-2605-4571-a637-82902b1b4029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_prefetch_yourorders&quot;)/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>feba09b4-c09b-471f-be90-e47a91a0f39d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav_prefetch_yourorders']/span</value>
+      <webElementGuid>dca68df4-7143-4725-bb21-404d43b506a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre compte'])[2]/following::span[1]</value>
+      <webElementGuid>8aee45a7-3004-4f0f-87e8-6724c93aac67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre compte'])[1]/following::span[2]</value>
+      <webElementGuid>63fdddf6-7876-4eb6-a87c-558e589002e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Votre liste d', &quot;'&quot;, 'envies')])[1]/preceding::span[1]</value>
+      <webElementGuid>2148bc8b-f108-42bd-83b9-82fc07f3c7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vos recommandations'])[1]/preceding::span[2]</value>
+      <webElementGuid>cd5a1920-7bd1-40d8-9d28-ee61190b7e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vos commandes']/parent::*</value>
+      <webElementGuid>247bc71b-0c7d-47a2-89eb-86ff9f8298a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[2]/span</value>
+      <webElementGuid>2cceee53-df1a-43bc-9b37-ca9020e3d63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vos commandes' or . = 'Vos commandes')]</value>
+      <webElementGuid>11ad432e-8637-49dd-b967-13db1e7b7c7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

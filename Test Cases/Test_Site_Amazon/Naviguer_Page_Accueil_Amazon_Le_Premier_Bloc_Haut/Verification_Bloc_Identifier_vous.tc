@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vérifier l'affichage de l'ensemble des élements dans le blo identifiez vous, 
+- Vérifier la liste déroulante vos envies 
+ - Vérifier la liste déroulante identification</description>
+   <name>Verification_Bloc_Identifier_vous</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f58d0e0-e9c1-4da6-ae76-3f72e37c4849</testCaseGuid>
+</TestCaseEntity>

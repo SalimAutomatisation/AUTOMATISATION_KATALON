@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vos animaux de compagnie</name>
+   <tag></tag>
+   <elementGuidId>b8592319-0132-47f7-a2a6-cbdca52df493</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-your-account']/a[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50755874-8be2-42d9-98c4-f0aa9170a697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>899237c1-d19f-44b4-a556-735e3619571b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vos animaux de compagnie</value>
+      <webElementGuid>7e51fb22-a25f-4eaa-ac02-dba80dfc4933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>22662ce7-4f5b-419f-872c-5a38e3bad82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec20aeba-097b-492d-8d68-2802c2a052c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>8c8f0b8e-2b69-4059-b836-2f5296d846e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vos animaux de compagnie</value>
+      <webElementGuid>233d8fa9-4688-4219-a134-042523d2f525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>119f7e3a-a4fe-472b-bcb9-052af2649b52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-your-account']/a[5]/span</value>
+      <webElementGuid>9753458b-92c8-4e21-a25d-22e7ba0f3cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vos recommandations'])[1]/following::span[1]</value>
+      <webElementGuid>8def1e75-0524-4eff-886b-9408dbad0000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Votre liste d', &quot;'&quot;, 'envies')])[1]/following::span[2]</value>
+      <webElementGuid>b83985a5-0178-4020-b9e4-4ca7baf1a311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vos Livraisons Programmées'])[1]/preceding::span[1]</value>
+      <webElementGuid>961d8c5c-87ed-4deb-ae95-e1b6ae16bd10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adhésions et abonnements'])[1]/preceding::span[2]</value>
+      <webElementGuid>6369e4e8-ed4f-4574-92a9-a8dc5a817fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vos animaux de compagnie']/parent::*</value>
+      <webElementGuid>7f7ef8df-aae2-43f9-8023-99049922f30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[5]/span</value>
+      <webElementGuid>8e7c399c-3253-4894-928a-55e4f9d53e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vos animaux de compagnie' or . = 'Vos animaux de compagnie')]</value>
+      <webElementGuid>647b90b7-2919-4c91-ab33-7ccf0c770ae1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

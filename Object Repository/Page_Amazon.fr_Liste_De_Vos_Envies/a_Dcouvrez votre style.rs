@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dcouvrez votre style</name>
+   <tag></tag>
+   <elementGuidId>35170544-ed4b-48e0-b97c-2defac8b0372</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-wishlist']/a[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e30e5954-71f9-4b77-bc39-6c6643343566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/discover?ref_=nav_ListFlyout_sbl</value>
+      <webElementGuid>d3f33a1d-cd0c-4ce4-b46a-57426b0485de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>8f2703ec-f3ae-4598-ab4a-33b3c790126c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Découvrez votre style</value>
+      <webElementGuid>39be917f-db77-4bab-bb87-af71b5b366ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>0af2f36f-9d79-42fc-a68a-a1b8efc8013d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9003be1f-0948-43dd-a81f-b54cff10bc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/discover?ref_=nav_ListFlyout_sbl</value>
+      <webElementGuid>080f199c-38cc-42ca-830d-b4dd729c0742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>c77d3479-1051-4021-9794-f3c9a75b458c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Découvrez votre style</value>
+      <webElementGuid>81e08303-600b-4bb8-a1be-81e3f86da581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>55367f41-4b95-44da-8d41-f87f2ddfc2f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-wishlist']/a[5]</value>
+      <webElementGuid>fca0d425-5a34-4535-848c-5bd373234a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liste de naissance'])[1]/following::a[1]</value>
+      <webElementGuid>442f576d-8c96-4e53-a001-955f25681de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liste de mariage'])[1]/following::a[2]</value>
+      <webElementGuid>f051153c-6e7d-44a7-a6b2-ba4bc53f0edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explorez le showroom'])[1]/preceding::a[1]</value>
+      <webElementGuid>6a925500-62c0-438c-96d4-4fe31b4db38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/discover?ref_=nav_ListFlyout_sbl')]</value>
+      <webElementGuid>156dcb99-828f-46c4-be9a-d8777fdc8fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>4d5c6496-b965-4cb7-8395-386939487205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/discover?ref_=nav_ListFlyout_sbl' and (text() = 'Découvrez votre style' or . = 'Découvrez votre style')]</value>
+      <webElementGuid>8c8b93b2-4466-4a04-838b-1e8bebea490b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

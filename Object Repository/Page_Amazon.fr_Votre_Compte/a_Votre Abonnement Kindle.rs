@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Votre Abonnement Kindle</name>
+   <tag></tag>
+   <elementGuidId>b1d8bca2-74f1-448b-967e-eafe7333a9ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-your-account']/a[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1fec695-3c88-4bab-b462-faf0745d2799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku</value>
+      <webElementGuid>0ac8e310-d120-4bd1-8837-729e23471662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>1762ea5c-b52a-4f84-9b8f-15faa7fd4f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre Abonnement Kindle</value>
+      <webElementGuid>308b1a58-24ab-4009-a82e-25ba91fa101e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>a996087d-b5fd-49f0-91a0-d4ea59290cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e4e1f026-1693-45d4-8329-6070b7175323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku</value>
+      <webElementGuid>a8fc952a-6f3e-43ab-9439-7504d42543ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>27b0ddbb-c806-437e-9f4a-b31c1d2cd365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre Abonnement Kindle</value>
+      <webElementGuid>bc76df19-f766-46c0-a1e7-2e382d0fa489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>8f9b2505-feb4-44ac-a90d-a8b8dab1a641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-your-account']/a[11]</value>
+      <webElementGuid>faa1c59c-3996-493f-a7b5-3a92c55e320a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gérer votre contenu et vos appareils'])[1]/following::a[1]</value>
+      <webElementGuid>f1d0b406-ea03-4e4a-898f-1739698123cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Créer un compte professionnel gratuit'])[1]/following::a[2]</value>
+      <webElementGuid>91cf654d-922e-4c6f-a2b1-f83b2c8efd8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre bibliothèque musicale'])[1]/preceding::a[1]</value>
+      <webElementGuid>380f7be2-911b-4019-bcae-3ac61add13a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku')]</value>
+      <webElementGuid>b0ea12fa-264f-413d-b83f-3ae1b43b891d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[11]</value>
+      <webElementGuid>22173c94-e9e1-4855-9151-23d6b9ebb0b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku' and (text() = 'Votre Abonnement Kindle' or . = 'Votre Abonnement Kindle')]</value>
+      <webElementGuid>18e6bf68-3c7b-4e59-bb06-6a3ab8e8a015</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

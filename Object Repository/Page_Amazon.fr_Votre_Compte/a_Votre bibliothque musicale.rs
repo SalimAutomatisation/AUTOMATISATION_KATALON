@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Votre bibliothque musicale</name>
+   <tag></tag>
+   <elementGuidId>d6f17816-7e59-4648-848a-ecedb6b339fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-your-account']/a[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1c2b416-42da-4d7d-9df0-a1f83b2de444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://music.amazon.fr?ref=nav_youraccount_cldplyr</value>
+      <webElementGuid>44241162-c3f9-45c1-988e-20d7ca414da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>1c0311da-87e6-4dbd-860c-ef0e8569cef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre bibliothèque musicale</value>
+      <webElementGuid>34da4949-0543-4c82-83ec-e24a0862367b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>a35f4c9d-afb7-480e-bf19-1214ee245c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>76310707-b77b-4a33-ab73-b899ab0b6b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://music.amazon.fr?ref=nav_youraccount_cldplyr</value>
+      <webElementGuid>03312297-50bb-4504-abe2-b051747a33e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>1ca622f1-9c6f-4a79-9a8d-9a344809c445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre bibliothèque musicale</value>
+      <webElementGuid>f4dc9987-bfb1-41bb-8de4-61fb734c16c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-your-account&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>f8f8c0d2-88a4-47bf-83ba-ba6797ae6a69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-your-account']/a[12]</value>
+      <webElementGuid>4118c82b-0309-42f4-bfef-e78418e8ed13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre Abonnement Kindle'])[1]/following::a[1]</value>
+      <webElementGuid>668aeeaa-8781-48ca-9ab6-d4f22b8bb1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gérer votre contenu et vos appareils'])[1]/following::a[2]</value>
+      <webElementGuid>1da72e23-aac1-41c2-b1ed-ab1fb86e7faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Votre Prime Video'])[1]/preceding::a[1]</value>
+      <webElementGuid>823c1b89-0b7b-4533-b1ae-ef264d208a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://music.amazon.fr?ref=nav_youraccount_cldplyr')]</value>
+      <webElementGuid>62468f57-53ff-4309-8c95-e7d70c9f612c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[12]</value>
+      <webElementGuid>ac214512-bad8-4a8f-a8ca-e93a45aae8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://music.amazon.fr?ref=nav_youraccount_cldplyr' and (text() = 'Votre bibliothèque musicale' or . = 'Votre bibliothèque musicale')]</value>
+      <webElementGuid>4196ae05-6eb3-4556-9ddc-c9404296e57a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

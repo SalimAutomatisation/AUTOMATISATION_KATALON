@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Liste de mariage</name>
+   <tag></tag>
+   <elementGuidId>a31e34bc-5af0-48d5-a8a3-0822ebf12cfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-al-wishlist']/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>569bc2b6-d9bc-48ac-8530-29c698e39beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wedding/home?ref_=nav_ListFlyout_gno_listpop_wr</value>
+      <webElementGuid>bb56cd40-87e7-4749-a471-b3a58760d6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>0010dbef-872d-4151-b04e-e83341e123e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liste de mariage</value>
+      <webElementGuid>e260d69e-afa8-4cac-9048-b6e93b36574b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>5db6363b-684a-4334-85aa-aa28eb2ec5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7d0ff3b-23f5-4ee7-81e7-6e960e8a12f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wedding/home?ref_=nav_ListFlyout_gno_listpop_wr</value>
+      <webElementGuid>c324e9ed-a49d-40bf-8ff3-2beb0cae4891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-item</value>
+      <webElementGuid>f0b3f375-aea0-4a47-9f7b-ccfc3da8d537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liste de mariage</value>
+      <webElementGuid>b937258c-0425-42e7-9dfa-605ef7f91c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-al-wishlist&quot;)/a[@class=&quot;nav-link nav-item&quot;]</value>
+      <webElementGuid>841b6c36-c334-4c8e-9c64-3aef42e580af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-al-wishlist']/a[3]</value>
+      <webElementGuid>de5c11db-ca3e-4441-b016-5450004729fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Liste d', &quot;'&quot;, 'envies universelle')])[1]/following::a[1]</value>
+      <webElementGuid>a45a1376-633a-4111-aaa0-dd8d87633f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Créer une liste'])[1]/following::a[2]</value>
+      <webElementGuid>80057a81-1a8c-4f38-9b9b-051231a1f556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liste de naissance'])[1]/preceding::a[1]</value>
+      <webElementGuid>4263214f-bc36-4f68-b184-124ee52001b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wedding/home?ref_=nav_ListFlyout_gno_listpop_wr')]</value>
+      <webElementGuid>4b528c6c-0032-45cc-93c0-b97fb2808a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[3]</value>
+      <webElementGuid>ca230fa4-b1a3-4003-8680-aeea7a2a80dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wedding/home?ref_=nav_ListFlyout_gno_listpop_wr' and (text() = 'Liste de mariage' or . = 'Liste de mariage')]</value>
+      <webElementGuid>da67fe99-fedb-4f3d-9c31-e6c37f521c8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
