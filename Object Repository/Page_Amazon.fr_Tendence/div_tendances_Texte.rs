@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_tendances_Texte</name>
+   <tag></tag>
+   <elementGuidId>693b8700-0104-4c6c-a6cb-2f0f2e5acc6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95faee16-6eb6-4ff9-be03-b62c1de13141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item hmenu-title </value>
+      <webElementGuid>1aa4dbf9-f4b8-4be1-b3ef-f091a20fc763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>tendances</value>
+      <webElementGuid>153d69c2-ef1b-4050-94c8-fdb5d719a304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[1]/div[@class=&quot;hmenu-item hmenu-title&quot;]</value>
+      <webElementGuid>a131a81f-99d3-4b4e-a59c-f579d60f0f1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li/div</value>
+      <webElementGuid>4864208b-2ce2-454b-92f4-a68747191f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bonjour, Identifiez-vous'])[2]/following::div[2]</value>
+      <webElementGuid>db428ef8-922b-4f9b-8545-938a809fe994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fermer le menu'])[1]/following::div[7]</value>
+      <webElementGuid>11fba8a4-f43e-4d1e-b290-7cbeb356bbb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meilleures ventes'])[3]/preceding::div[1]</value>
+      <webElementGuid>c1118995-8fcb-4197-8d84-24442fca3949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dernières Nouveautés'])[2]/preceding::div[1]</value>
+      <webElementGuid>c0f642bd-61ab-4cc3-9509-fb254902e2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='tendances']/parent::*</value>
+      <webElementGuid>d8cf7e3e-ab82-466e-9965-9882128e39af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li/div</value>
+      <webElementGuid>442f766f-b929-40cf-be14-3c4b091c31ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'tendances' or . = 'tendances')]</value>
+      <webElementGuid>a6554771-4acd-4534-a6b3-5ef6436704d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

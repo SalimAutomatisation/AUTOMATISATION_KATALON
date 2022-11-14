@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Baromtre des ventes</name>
+   <tag></tag>
+   <elementGuidId>95fcabc8-7c5b-447b-90a8-efedb4f919c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>473b1b86-4216-4fa0-9e4a-f75fdce7e4c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/movers-and-shakers/?ref_=nav_em_ms_0_1_1_4</value>
+      <webElementGuid>abc43778-214f-4f46-86d0-9b0ce6c7debe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>98109056-c970-48a2-9b35-70b245851725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baromètre des ventes</value>
+      <webElementGuid>e0cad45a-aae1-4e16-a6f4-1255b39a6ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[4]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>6aef2d3e-355d-4c75-9226-7c105d982151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[4]/a</value>
+      <webElementGuid>d276cb6a-30bc-4c3c-9e9f-8cd985576d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Baromètre des ventes')]</value>
+      <webElementGuid>9e36584e-625f-40b1-b7d4-c2015e149867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dernières Nouveautés'])[2]/following::a[1]</value>
+      <webElementGuid>bf24645a-66f5-4595-a2b5-17f4ada2acd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meilleures ventes'])[3]/following::a[2]</value>
+      <webElementGuid>00fc3df4-6652-470c-a820-dad4324dfef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contenu numérique et appareils'])[1]/preceding::a[1]</value>
+      <webElementGuid>275fa8c7-75b4-4398-903f-ae81d3cbf41e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Prime Video'])[1]/preceding::a[1]</value>
+      <webElementGuid>a0c5116b-c31d-4a98-9138-307d21b4d8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Baromètre des ventes']/parent::*</value>
+      <webElementGuid>0cc4b489-65cb-42fb-b7ab-d2d2fe5cd82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/movers-and-shakers/?ref_=nav_em_ms_0_1_1_4')]</value>
+      <webElementGuid>2e9901d6-b623-414f-b559-5b7be732fd26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>aa4561e8-5111-4db0-9c47-790937bab0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/movers-and-shakers/?ref_=nav_em_ms_0_1_1_4' and (text() = 'Baromètre des ventes' or . = 'Baromètre des ventes')]</value>
+      <webElementGuid>9c2559e5-85ac-47ce-8b5c-25c07d357986</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

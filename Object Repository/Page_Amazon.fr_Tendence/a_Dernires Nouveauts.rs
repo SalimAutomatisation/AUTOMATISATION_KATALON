@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dernires Nouveauts</name>
+   <tag></tag>
+   <elementGuidId>77612090-5795-4bde-affc-a9c7dbb948b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d9bfdc9-8741-4a16-9038-5da9a46a1c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/new-releases/?ref_=nav_em_cs_newreleases_0_1_1_3</value>
+      <webElementGuid>2cd17ade-b0e9-4d1f-a5b3-751123b5dfec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmenu-item</value>
+      <webElementGuid>f349a7cb-3986-489d-8b3f-a0604c065a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dernières Nouveautés</value>
+      <webElementGuid>f3995c69-d5ff-441e-8f33-05185b368150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[3]/a[@class=&quot;hmenu-item&quot;]</value>
+      <webElementGuid>0349f0f9-4d9a-4983-bf42-b19ce9028abb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[3]/a</value>
+      <webElementGuid>161f01b2-cc78-4d00-b407-aaeabd177079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Dernières Nouveautés')])[2]</value>
+      <webElementGuid>3b6f6f0f-46c6-434a-b36b-de74bbc7a018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meilleures ventes'])[3]/following::a[1]</value>
+      <webElementGuid>d8df8757-b9a3-422d-81db-48b9fcb50881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tendances'])[1]/following::a[2]</value>
+      <webElementGuid>58bffcf5-b0a1-4f8e-986a-ea618435831f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baromètre des ventes'])[1]/preceding::a[1]</value>
+      <webElementGuid>75d678ea-19d4-4aae-b97f-321394a09984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contenu numérique et appareils'])[1]/preceding::a[2]</value>
+      <webElementGuid>8839ff23-e4a0-4416-b9b0-d51a7d3f5d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/new-releases/?ref_=nav_em_cs_newreleases_0_1_1_3')]</value>
+      <webElementGuid>5f44b6e9-d731-488c-99ee-ca1b0ba85f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>2d989853-aef0-4096-8469-32359fa701f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/new-releases/?ref_=nav_em_cs_newreleases_0_1_1_3' and (text() = 'Dernières Nouveautés' or . = 'Dernières Nouveautés')]</value>
+      <webElementGuid>5fcda090-e62b-4293-8617-7195ad7ff0f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
