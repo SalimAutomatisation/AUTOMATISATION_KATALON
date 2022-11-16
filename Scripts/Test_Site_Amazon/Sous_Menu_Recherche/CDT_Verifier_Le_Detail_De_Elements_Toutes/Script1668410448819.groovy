@@ -21,6 +21,24 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('https://www.amazon.fr/')
 Link=WebUI.getUrl()
 WebUI.verifyMatch(Link, 'https://www.amazon.fr/', false)
-
+WebUI.maximizeWindow()
 //Cliquer sur le bouton Accépter des cokiees 
 WebUI.click(findTestObject('Page_cookies/Page_Amazon.fr  livres, DVD, jeux vido/input_Politique de confidentialit_accept'))
+
+//cliquer sur le bouton Toute pour affihcer la liste déroulante 
+WebUI.click(findTestObject('Page_Amazon.fr_Sous_Menu_Liste_Toutes/a_Toutes'))
+
+//Verifier l'affichage des éléments affichés dans la liste Toute
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Tendence/div_tendances_Texte'), 0)
+WebUI.verifyElementText(findTestObject('Page_Amazon.fr_Tendence/div_tendances_Texte'), 'Tendances')
+
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Tendence/a_Baromtre des ventes'), 0)
+WebUI.verifyElementText(findTestObject('Page_Amazon.fr_Tendence/a_Baromtre des ventes'), 'Baromètre des ventes')
+
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Tendence/a_Dernires Nouveauts'), 0)
+WebUI.verifyElementText(findTestObject('Page_Amazon.fr_Tendence/a_Dernires Nouveauts'), 'Dernières Nouveautés')
+
+WebUI.verifyElementPresent(findTestObject('Page_Amazon.fr_Tendence/a_Meilleures ventes'), 0)
+WebUI.verifyElementText(findTestObject('Page_Amazon.fr_Tendence/a_Meilleures ventes'), 'Meilleures ventes')
+
+
